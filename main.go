@@ -13,18 +13,7 @@ func Sum(num int) int {
 	}
 	return sum
 }
-<<<<<<< Updated upstream
-=======
 
 func TuanNM() int {
 	return 1
 }
-
-func TuanNHu() int {
-	return 2
-}
-
-func TuanNM3() int {
-	return 1
-}
->>>>>>> Stashed changes
