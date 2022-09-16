@@ -17,3 +17,7 @@ func Sum(num int) int {
 func TuanNM() int {
 	return 1
 }
+
+func TuanNHu() int {
+	return 2
+}
