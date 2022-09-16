@@ -13,3 +13,7 @@ func Sum(num int) int {
 	}
 	return sum
 }
+
+func TuanNM() int {
+return 1
+}
